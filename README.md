@@ -1,5 +1,3 @@
-<img width="578" height="521" alt="image" src="https://github.com/user-attachments/assets/404d70bc-8855-4956-9a78-0034038c664c" /># 🧾 Manhwa Typesetting Checker
-
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
